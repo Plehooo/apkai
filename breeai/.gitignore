@@ -1,0 +1,12 @@
+# Android local build/cache and local machine settings
+android/local.properties
+android/.gradle/
+android/**/build/
+android/captures/
+android/.idea/
+# Local Python environment, credential files, and test caches
+backend/.env
+backend/.venv/
+backend/**/__pycache__/
+backend/**/*.py[cod]
+backend/.pytest_cache/
